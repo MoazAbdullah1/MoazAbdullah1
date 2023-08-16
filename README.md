@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Clothing Website**
 
-- 🌱 I’m currently learning **Jupiter Notebook.**
+- 🌱 I’m currently learning **AI And Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
