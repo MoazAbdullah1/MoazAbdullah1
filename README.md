@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React Js.**
+- 💬 Ask me about **HTML, CSS, Boot Strap, JavaScript, React Js And Node Js.**
 
 - 📫 How to reach me **moazabdullah02@gmail.com**
 
