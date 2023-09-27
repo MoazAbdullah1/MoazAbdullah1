@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="moazabdullah1" /> </p>
 
-- 🔭 I’m currently working on **Clothing Website**
+- 🔭 I’m currently working on **Data Science & Web**
 
-- 🌱 I’m currently learning **AI & Machine Learning AND Data Science.**
+- 🌱 I’m currently learning **AI & ML AND Data Science.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
