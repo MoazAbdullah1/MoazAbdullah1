@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data & MERN**
 
-- 🌱 I’m currently learning **Data Science & AWS Cloud.**
+- 🌱 I’m currently learning **Data Science & AWS Cloud Engineer.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
