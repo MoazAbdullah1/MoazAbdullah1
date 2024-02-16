@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="moazabdullah1" /> </p>
 
-- 🔭 I’m currently working on **Data & MERN**
+- 🔭 I’m currently working on ** MERN **
 
-- 🌱 I’m currently learning **Data Science & AWS Cloud Engineer.**
+- 🌱 I’m currently learning **ML & AI.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
-- 💬 Ask me about **WordPress, HTML, CSS, Boot Strap, JavaScript, React Js, MongoDB And Node Js.**
+- 💬 Ask me about **WordPress, MERN.**
 
 - 📫 How to reach me **moazabdullah02@gmail.com**
 
