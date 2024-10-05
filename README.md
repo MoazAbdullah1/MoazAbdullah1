@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on ** MERN **
 
-- 🌱 I’m currently learning **ML & AI.**
+- 🌱 I’m currently learning **ML & AI + Cloud.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
-- 💬 Ask me about **WordPress, MERN.**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **moazabdullah02@gmail.com**
-
-- ⚡ Fun fact **I am Mentor, Motivational Speaker and Ambitious.**
+- Youtube Channel https://www.youtube.com/@A_MOfficial499
+- I also have Youtube Channel by any chance if you click on this link Plz Subscribe it...
 
 
 <br>
