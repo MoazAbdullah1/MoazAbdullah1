@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moazabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://linkedin.com/in/moazabdullah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/moaz-abdullah/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:moazabdullah02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -11,7 +11,7 @@
 
 ## About Me
 
-DevOps/Cloud Engineer with 2+ years of experience spanning infrastructure automation and full-stack development. Currently focused on AWS patching orchestration for production Linux server fleets using Systems Manager (SSM) Automation, and preparing for the **AWS Certified DevOps Engineer – Professional** certification.
+DevOps/Cloud Engineer with 2+ years of experience full-stack development and 6 Months of Experience in DevOps Automation & Infra. Currently focused on AWS patching orchestration for production Linux server fleets using Systems Manager (SSM) Automation, and preparing for the **AWS Certified DevOps Engineer – Professional** certification.
 
 - 🔭 **Currently working on:** SSM-based patching orchestration for a 32-server RHEL/Tomcat fleet (Maintenance Windows, Run Command, Automation documents)
 - 🌱 **Currently studying for:** AWS Certified DevOps Engineer – Professional (previously completed AWS Certified CloudOps Engineer – Associate)
