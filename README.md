@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazabdullah1&label=Profile%20views&color=0e75b6&style=flat" alt="moazabdullah1" /> </p>
 
-- 🔭 I’m currently working on ** MERN + Lavarel **
+- 🔭 I’m currently working on ** DevOps Engineer ** with ** 2+ years of Experience ** in ** Full Stack Dev **
 
-- 🌱 I’m currently learning **AI + Cloud.**
+- 🌱 I’m currently learning **DevOps and Cloud.**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/moaz_abdullah](linktr.ee/moaz_abdullah)
 
