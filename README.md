@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moaz Abdullah</h1>
-<h3 align="center">A passionate Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Moaz </h1>
+<h3 align="center">A Passionate in Automation, Cloud & Development.</h3>
 
 <img align="right" ali="coding" width="300" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47dfoyq4xt3b9l93fwtvkl9mf3l5bhvdh19rkrblze&ep=v1_gifs_search&rid=giphy.gif&ct=g" >
 
