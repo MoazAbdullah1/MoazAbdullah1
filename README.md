@@ -11,7 +11,7 @@
 
 ## About Me
 
-DevOps & Cloud Engineer with 2+ years of experience full-stack development and 1 Year of Industry Experience in DevOps Automation & Infra. Currently focused on AWS patching orchestration for production Linux server fleets using Systems Manager (SSM) Automation, I Successfully Cleared the **AZ-104, Microsoft Certified: Azure Administrator Associate** and preparing for the **Azure/AWS Certified DevOps Engineer – Professional** certification.
+Associate DevOps & Cloud Engineer with 2+ years of experience full-stack development and 1 Year of Industry Experience in DevOps Automation & Infra. Currently focused on AWS patching orchestration for production Linux server fleets using Systems Manager (SSM) Automation, I Successfully Cleared the **AZ-104, Microsoft Certified: Azure Administrator Associate** and preparing for the **Azure/AWS Certified DevOps Engineer – Professional** certification.
 
 - 🔭 **Currently working on:** SSM-based patching orchestration for a 32-server RHEL/Tomcat fleet (Maintenance Windows, Run Command, Automation documents)
 - 🌱 **Currently studying for:** Azure/AWS Certified DevOps Engineer – Professional (previously completed Microsoft Certified: Azure Administrator Associate)
